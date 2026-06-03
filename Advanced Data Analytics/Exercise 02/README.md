@@ -111,10 +111,10 @@ exercise_02/
 │
 ├── My coffee Shop.ipynb
 ├── Mycoffeeshop.png
+├── README.md
 ├── dimcustomerstable.png
 ├── dimproductstable.png
 ├── historydimcustomer.png
-├── README.md
 └── Exercise_02_Evidence.docx
 ```
 
