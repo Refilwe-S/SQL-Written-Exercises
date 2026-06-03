@@ -109,13 +109,14 @@ Shows the DELETE operation recorded in the Delta Lake transaction history.
 ```text
 exercise_02/
 │
+└── Exercise_02_Evidence.docx
 ├── My coffee Shop.ipynb
 ├── Mycoffeeshop.png
 ├── README.md
 ├── dimcustomerstable.png
 ├── dimproductstable.png
+└── factorders.png
 ├── historydimcustomer.png
-└── Exercise_02_Evidence.docx
 ```
 
 ---
